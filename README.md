@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 
   - SQL
   - Python
-  - R
   - Power BI
+  - R
   - Tableau (*Beginner*)
   - Also have educational experience with C++, Java, MATLAB, and Front-End Development.
 
