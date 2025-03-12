@@ -15,9 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 ## Langauges/Visualization Tools
 
-  - SQL
-  - Python
-  - Power BI
+  - [SQL](https://github.com/bdavidson16/SQL/blob/main/README.md)
+  - [Python](https://github.com/bdavidson16/Python/blob/main/README.md)
+  - [Power BI](https://github.com/bdavidson16/Power-BI/blob/main/README.md)
   - R
   - Tableau (*Beginner*)
   - Also have educational experience with C++, Java, MATLAB, and Front-End Development.
