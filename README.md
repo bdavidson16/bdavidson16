@@ -1,15 +1,15 @@
-- 👋 Hi, I’m @bdavidson16
-- 👀 I’m interested in 
-- 🌱 I’m currently learning R and would like to continue this learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: *[bailey.davidson@snhu.edu]()*
+- 👋 Hi, I’m a new graduate pursuing a career in Data Analytics/Science. I have a certification in Google Data Analytics and have complete numerous SQL, Python, R, and Power BI Projects.
+- 👀 I’m interested in hiking, travelling, and reading.
+- 🌱 I’m currently learning R and ML, and would like to continue this growth while I start my Master's Degree in the fall.
+- 📫 How to reach me: *<a href="mailto:bailey.davidson@snhu.edu">Email Me</a>*
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: ...
 
 <!---
 bdavidson16/bdavidson16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----># Welcome to my ***Data Engineer Portfolio***!
+--->
+# Welcome to my ***Data Engineer Portfolio***!
 
 This is to showcase my abilities as a data scientist. I am attempting to highlight my skills using Python, SQL and R amongst other languages that I find useful along the way. I will also keep my school projects, papers, and any other assignments available, especially highlighting those that I feel are relevant to my career and are valuable to any computer scientist.
 
