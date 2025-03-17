@@ -1,4 +1,4 @@
-# Welcome to my *Data Analyst Portfolio!*
+# Welcome!
 
 👋 Hi, I’m a new graduate pursuing a career in Data Analytics/Science. I have a certification in Google Data Analytics and have completed numerous SQL, Python, R, and Power BI Projects.
 
