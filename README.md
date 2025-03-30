@@ -4,9 +4,9 @@
 
 🌱 I’m currently learning R and ML for analysis, and diving deeper in APIs and MongoDB expanding on client/server development.
 
-☕ My hobbies involve hiking, travelling, and reading.
+☕ My hobbies involve hiking, traveling, and reading.
 
-✍️ This is to showcase my abilities as an aspiring data analyst/scientist. I am attempting to highlight my skills using SQL, Python, and R amongst other languages that I find useful along the way. The projects that I chose to display in the main section of my portfolio were completed using *VS Code*, *Jupyter Notebooks*, and *Power BI*, with some visualizations done on *Tableau* for practice. At the moment I am loving the ease of use that *Jupyter Notebooks* provides.
+✍️ This portfolio is here to highlight my abilities as an aspiring data analyst. I am attempting to emphasize my skills using SQL, Python, and R amongst other languages that I find useful along the way (such at HTML/CSS for my [*jupyter dashboard*]() project). The projects that I chose to display were completed using *VS Code*, *Jupyter Lab*, and *Power BI*.
 
 ## Langauges/Visualization Tools
 
