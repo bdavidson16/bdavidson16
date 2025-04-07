@@ -6,7 +6,7 @@
 
 ☕ My hobbies involve hiking, traveling, and reading.
 
-✍️ This portfolio is here to highlight my abilities as an aspiring data analyst. I am attempting to emphasize my skills using SQL, Python, and R amongst other languages that I find useful along the way (such at HTML/CSS for my [*jupyter dashboard*]() project). The projects that I chose to display were completed using *VS Code*, *Jupyter Lab*, and *Power BI*.
+✍️ This portfolio is here to highlight my abilities as an aspiring data analyst. I am attempting to emphasize my skills using SQL, Python, and R amongst other languages that I find useful along the way (such at HTML/CSS for my [*jupyter dashboard*](https://github.com/bdavidson16/Python/tree/main/CDC%3A%20COVID-19%20Dashboard) project). The projects that I chose to display were completed using *VS Code*, *Jupyter Lab*, and *Power BI*.
 
 ## Langauges/Visualization Tools
 
