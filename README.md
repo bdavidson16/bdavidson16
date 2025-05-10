@@ -20,12 +20,13 @@
 ## Certifications
 
   - **[Google Data Analytics Certificate](https://github.com/user-attachments/files/19200487/Coursera.XMI1DZCNZCTY.pdf)**
+  - **[IBM Data Engineering Certificate](https://github.com/user-attachments/files/20139593/IBM.DE.Cert.pdf)**
 
 ## Education
  
-  - Bachelor of Science in *Computer Science* with a concentration in *Data Analytics*
+  - Bachelor of Science in *Computer Science* with a concentration in *Data Analytics* - graduating in August 2025
+  - Admitted to *Master of Science in Data Science* program to begin August 2025 (*asynchronous*)
 
 
 😄 Questions? Want to chat? 📫 *<a href="mailto:bailey.davidson@snhu.edu">Email Me</a>*
-
 
